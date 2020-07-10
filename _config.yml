@@ -1,21 +1,21 @@
 # Site settings
-title: Eventually
-email: youremailaddress@gmail.com
-description: A simple template for telling the world when you'll launch your next big thing. Brought to you by HTML5 UP.
-baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Chrome Controller
+email: support@chromecontroller.com
+description: Browser extension equipped with a secondary mouse cursor for your controller and on screen keyboard, you can browse in leisure from a distance!
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/mccrearyd
+gitlab_url:
+googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/dyllan-mccreary-570140154/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/dyllan_ai
 
 # Build settings
 markdown: kramdown
